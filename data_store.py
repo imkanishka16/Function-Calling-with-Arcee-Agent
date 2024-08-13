@@ -1,9 +1,9 @@
 register = {
-    "registered" : [{"name":"Kanishka", "NIC" : "95223342","mbb":[+94764371306],"hbb":[274666882],"dtv":"No","id_image":"https://drive.google.com/file/d/11Zt0LvsjJ18JEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"},
-                    {"name":"Jhon", "NIC":"97555477","mbb":[+94764371234],"hbb":[34577899],"dtv":"No","id_image":"https://drive.google.com/file/d/11Zt0LvsjJ18JEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"},
-                    {"name":"Jimmy", "NIC":"96674899","mbb":[+94764371311],"hbb":"No","dtv":[66778899],"id_image":"https://drive.google.com/file/d/11Zt0LvsjJ18JEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"},
-                    {"name":"Sami", "NIC":"96674900","mbb": [+94764371876],"hbb":[274988738],"dtv":[66778822],"id_image":"https://drive.google.com/file/d/11Zt0LvsjJ18JEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"},
-                    {"name":"Kholi", "NIC":"96674901","mbb": "No","hbb":[274556677],"dtv":"No","id_image":"https://drive.google.com/file/d/11Zt0LvsjJ18JEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"}]
+    "registered" : [{"name":"Kanishka", "NIC" : "95223342","mbb":[+94764371306],"hbb":[274666882],"dtv":"No","id_image":"https://drive.google.com/file/d/11Zt0LvsjJ18JEM-X1Z-WXCVLsmSu/view?usp=drive_link"},
+                    {"name":"Jhon", "NIC":"97555477","mbb":[+94764371234],"hbb":[34577899],"dtv":"No","id_image":"https://drive.google.com/file/d/11Zt0LvsjJEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"},
+                    {"name":"Jimmy", "NIC":"96674899","mbb":[+94764371311],"hbb":"No","dtv":[66778899],"id_image":"https://drive.google.com/file/d/11Zt0Lv8JEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"},
+                    {"name":"Sami", "NIC":"96674900","mbb": [+94764371876],"hbb":[274988738],"dtv":[66778822],"id_image":"https://drive.google.com/file/d/0LvsjJ18JEM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"},
+                    {"name":"Kholi", "NIC":"96674901","mbb": "No","hbb":[274556677],"dtv":"No","id_image":"https://drive.google.com/file/d/11Zt0LvsjJM-X1Z-Wq8jJXCVLsmSu/view?usp=drive_link"}]
 }
 
 list = {
